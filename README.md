@@ -9,19 +9,19 @@
 <h1 align="center">Real Time Bus Tracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/bayardorivas/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/bayardorivas/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/bayardorivas/real-time-bus-tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/bayardorivas/real-time-bus-tracker?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/bayardorivas/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/bayardorivas/real-time-bus-tracker?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{bayardorivas}}/real-time-bus-tracker?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/bayardorivas/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -90,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{bayardorivas}}" target="_blank">{{"Bayardo Rivas"}}</a>
+Made with :heart: by <a href="https://github.com/bayardorivas" target="_blank">Bayardo Rivas</a>
 
 &#xa0;
 
