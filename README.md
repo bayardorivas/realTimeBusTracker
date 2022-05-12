@@ -61,7 +61,7 @@ The following tools were used in this project:
 - Javascript
 - HTML
 - CSS
-
+- Mapbox API (https://www.mapbox.com/)
 ## :white_check_mark: Requirements ##
 
 Before starting : you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed to clone de the project.
