@@ -4,7 +4,7 @@ const btnMove = document.getElementById("btnmove");
 const btnreset = document.getElementById("btnreset");
 
 // Keys 
-mapboxgl.accessToken = 'pk.eyJ1IjoiYmF5YXJkb3JpdmFzIiwiYSI6ImNsMnhqbmhxdTA3bTIzYm1sdjlzOGczdDcifQ.Il4y99R7_QdWhYIgZBc_bQ';
+mapboxgl.accessToken = '';
 
 // Creando una nueva instancia de Mapa de la biblioteca Mapbox
 var map = new mapboxgl.Map({
