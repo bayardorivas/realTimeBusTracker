@@ -13,20 +13,25 @@ body {
   left: 0;
   padding: 10px;
 }
-button{
-    font-size: 2em;
-    border: none;
-    border-radius: 0.5rem;
-    padding: 1rem 1.5rem;
-    box-shadow: 5px 3px 5px -2px rgba(0,0,0,0.37);
+button {
+  font-size: 2em;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem 1.5rem;
+  box-shadow: 5px 3px 5px -2px rgba(0, 0, 0, 0.37);
 }
 
-.btnprimary{
-    background-color: #264653;
-    color: #fff;
+.btnprimary {
+  background-color: #264653;
+  color: #fff;
 }
 
-.btnsecondary{
-    background-color: #2a9d8f;
-    color: #fff;
+.btnsecondary {
+  background-color: #2a9d8f;
+  color: #fff;
+}
+
+.mapboxgl-popup {
+  max-width: 400px;
+  font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
