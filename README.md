@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-This project likes me, it is an academic project but it is full of reality, you can deploy this project into different real and usefull projects. Fetching an API of [MBTA]:https://www.mbta.com/ and [Mapbox GL JS]: https://www.mapbox.com/ Library we have a real time tracking system to buses. 
+This project likes me, it is an academic project but it is full of reality, you can deploy this project into different real and usefull projects. Fetching an API of [MBTA](https://www.mbta.com/) and [Mapbox GL JS Library](https://www.mapbox.com/) we have a real time tracking system to buses. 
 
 ## :sparkles: Features ##
 
