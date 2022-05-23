@@ -47,19 +47,18 @@
 
 ## :dart: About ##
 
-This project uses the "Mapbox Gl JS" library for vector maps on the web. In the project is added a marker at the map that trace all the bus stops you can find going from MIT Campus to Harvard Campus. I used some styles of the mapbox library and with an array of coordinates is traced the route. The project was created for the "Profesional Certificate in Coding: Fullstack Development with MERN - The Massachusetts Institute of Thechnology (MIT)". 
+This project likes me, it is an academic project but it is full of reality, you can deploy this project into different real and usefull projects. Fetching an API of [MBTA]:https://www.mbta.com/ and [Mapbox GL JS]: https://www.mapbox.com/ Library we have a real time tracking system to buses. 
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Map loading on web page\
-:heavy_check_mark: Map marker defined\
-:heavy_check_mark: Map marker animated using coordinates (longitude and latitude)
+:heavy_check_mark: Map loading on web page
+:heavy_check_mark: Map marker defined and animated with live coordinates fetched from MBTA API.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- Javascript
+- Javascript to animate markers and fetch API
 - HTML
 - CSS
 - Mapbox GL JS library  (https://www.mapbox.com/)
@@ -78,19 +77,15 @@ $ git clone https://github.com/bayardorivas/real-time-bus-tracker
 # Access
 $ cd real-time-bus-tracker
 
-# Open the index.html file on your browser
+# Just Open the index.html file on your browser
 
-# Click the "Show stops between MIT and Harvard" button to start the animation
-
-# Click the "Reset" button to move the marker to start position.
 ```
 
 ## :recycle: Improvements ##
 
 It would be nice the next improvements:
-1. Change the marker Icon to a Bus image.
-2. Try to change the marker to an animated image moving and through the way and not jumping between bus stops
-3. Add reference text or names on every bus stop.
+- [ ] Change the marker Icon to a Bus image.
+- [ ] Using the API you can fetch different routes. We can add a interaction with user giving all routes and user choose wich rout to place in map.
 
 ## :memo: License ##
 
