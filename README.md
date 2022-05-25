@@ -52,6 +52,7 @@ This project likes me, it is an academic project but it is full of reality, you 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Map loading on web page
+
 :heavy_check_mark: Map marker defined and animated with live coordinates fetched from MBTA API.
 
 ## :rocket: Technologies ##
